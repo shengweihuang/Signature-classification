@@ -1,1 +1,2 @@
-hello
+The interpretation and management of streamed data has become an important area of research for the computer science, database, and statistics communities. Signature as data transform maps multi-dimensional paths to the sequence of their iterated integrals.
+We treat signatures as features in this method. Then, we use the binary classifier to distinguish different time intervals. This is the first step towards the signature trading strategies.
